@@ -2,7 +2,7 @@
 public class OtherClass {
 	
 	public String getMessage(){
-		return "Hello Git";
+		return "Hello EGit with Eclipse!!!";
 	}
 
 }
